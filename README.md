@@ -21,6 +21,12 @@ Absolutely, here's a markdown requirements document for both the standard and pr
 
 # USB-C PD Passthrough Device Requirements
 
+## models
+**economy** device that displays only LED good or bad, $10 USD
+**standard** device that displays good or bad with PD, Voltage , $25 USD
+**Pro** device that display good or bad with Voltage loger,  $35 USD
+
+
 ## Standard Version
 
 1. **USB-C Power Delivery (PD) Passthrough:** The device should allow power to be delivered through it according to the USB-C PD standard. This means it needs to handle voltages up to 20V and currents up to 5A, depending on the power level negotiated by the devices.
@@ -39,8 +45,14 @@ Absolutely, here's a markdown requirements document for both the standard and pr
 
 All features of the Standard Version, plus:
 
-1. **Voltage Logging:** The device should periodically log the voltage level. This data should be stored in non-volatile memory and should be retrievable by the user.
-
-2. **Voltmeter:** The device should include a voltmeter for more precise measurement of the voltage.
-
+1. **Voltmeter:** The device should include a voltmeter for more precise measurement of the voltage.
+2. **Voltage Logging:** The device should periodically log the voltage level. This data should be stored in non-volatile memory and should be retrievable by the user.
 3. **OLED Display:** The device should include a small OLED display. This display should show the current voltage and, if possible, a graph of the voltage over time.
+
+## sales
+
+## napkin profits from tindie ##
+Expected sales 1 month 100, 25 economy, 50 standard, 25 pro
+**economy** ~ $3 USD p * 25 u = $75 
+**standard** ~ $10 usd p * 50 = $500
+**Pro** ~ $15 usd p  * 25 = $375
