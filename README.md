@@ -22,9 +22,9 @@ Absolutely, here's a markdown requirements document for both the standard and pr
 # USB-C PD Passthrough Device Requirements
 
 ## models
-**economy** device that displays only LED good or bad, $10 USD
-**standard** device that displays good or bad with PD, Voltage , $25 USD
-**Pro** device that display good or bad with Voltage loger,  $35 USD
+   - **economy** device that displays only LED good or bad, $10 USD
+   - **standard** device that displays good or bad with PD, Voltage , $25 USD
+   - **Pro** device that display good or bad with Voltage loger,  $35 USD
 
 
 ## Standard Version
@@ -53,6 +53,6 @@ All features of the Standard Version, plus:
 
 ## napkin profits from tindie ##
 Expected sales 1 month 100, 25 economy, 50 standard, 25 pro
-**economy** ~ $3 USD p * 25 u = $75 
-**standard** ~ $10 usd p * 50 = $500
-**Pro** ~ $15 usd p  * 25 = $375
+   - **economy** ~ $3 USD p * 25 u = $75 
+   - **standard** ~ $10 usd p * 50 = $500
+   - **Pro** ~ $15 usd p  * 25 = $375
